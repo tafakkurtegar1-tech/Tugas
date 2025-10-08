@@ -1,4 +1,4 @@
-[indeks.html](https://github.com/user-attachments/files/22765679/indeks.html)
+
 <html>
     <head>
         <title>My Home</title>
